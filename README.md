@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jaychotaliya4585&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaychotaliya4585&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaychotalia4585&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaychotaliya4585&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaychotaliya4585&theme=radical&no-frame=false&no-bg=true&margin-w=4)
