@@ -1,9 +1,9 @@
 -
 
 <h1 align="center">Hey 👋, I'm Jay Chotaliya</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center"> Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaval-patil21&label=Profile%20views&color=0e75b6&style=flat" alt="dhaval-patil21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaychotaliya4585&label=Profile%20views&color=0e75b6&style=flat" alt="dhaval-patil21" /> </p>
 
 
 
