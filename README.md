@@ -22,7 +22,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhaval-patil21&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=jaychotaliya@4585&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhaval-patil21&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaval-patil21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
